@@ -38,8 +38,8 @@
 #
 
 <div>  
-  <img src="https://github-readme-stats.vercel.app/api?username=phromanomr&theme=transparent&bg_color=0d1117&border_color=0d1117&show_icons=true&icon_color=30A3DC&title_color=8d192b&text_color=FFF" alt="GitHub Stats" /> 
-  <img src="https://streak-stats.demolab.com/?user=phromanomr&theme=rose&background=0d1117&border=0d1117&dates=FFF" alt="Streak Stats"/>
+  <img style="width=49%" src="https://github-readme-stats.vercel.app/api?username=phromanomr&theme=transparent&bg_color=0d1117&border_color=0d1117&show_icons=true&icon_color=30A3DC&title_color=8d192b&text_color=FFF" alt="GitHub Stats" /> 
+  <img style="width=49%" src="https://streak-stats.demolab.com/?user=phromanomr&theme=rose&background=0d1117&border=0d1117&dates=FFF" alt="Streak Stats"/>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phromanomr&layout=compact&hide_border=true&title_color=8d192b&text_color=ffffff&bg_color=0d1117)
