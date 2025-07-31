@@ -10,7 +10,7 @@
 
 <p>Estudante do Bacharelado em Sistemas de Informação pela UFV, atualmente no 6º semestre. Apaixonado por tecnologia, programação, cibersegurança, inteligência artificial, pesquisa acadêmica, xadrez, música e leitura. Em constante busca por evolução pessoal e profissional. 🖥️🎻 </p>
 
-## Se conecte comigo 👋
+## Conecte-se comigo 👋
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phelipe-romano/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romano_phelipe/)
