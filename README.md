@@ -8,7 +8,7 @@
 
 ## 🚀 Desenvolvedor apaixonado por Tecnologia, IA e Cibersegurança — em constante evolução.
 
-<p>Estudante do Bacharelado em Sistemas de Informação pela UFV, atualmente no 6º semestre. Apaixonado por tecnologia, programação, cibersegurança, inteligência artificial, pesquisa acadêmica, xadrez, música e leitura. Em constante busca por evolução pessoal e profissional. 🖥️🎻 </p>
+<p>Estudante do Bacharelado em Sistemas de Informação pela UFV, atualmente no 7º semestre. Apaixonado por tecnologia, programação, cibersegurança, inteligência artificial, pesquisa acadêmica, xadrez, música e leitura. Em constante busca por evolução pessoal e profissional. 🖥️🎻 </p>
 
 ## Conecte-se comigo 👋
 
